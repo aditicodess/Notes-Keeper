@@ -1,4 +1,4 @@
-# MERN Stack - Notes App
+# MERN Stack - Notes Keeper App
 
 ## Install dependencies for server
 
